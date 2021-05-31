@@ -51,7 +51,7 @@ $total = mysqli_num_rows($data);
 		<script>
 			function checkdelete()
 			{
-				return confirm('Are you sure you want to Delete this data?');
+				return confirm('Are you sure you want to delete this data?');
 			}
 		</script>
 
