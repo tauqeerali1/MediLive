@@ -11,6 +11,6 @@ include("connection.php");
 		<?php
 	}
 	else{
-		echo "<font color='red'>Sorry, Delete Process failed";
+		echo "<font color='red'>Sorry, Delete Process Failed";
 	}
 ?>
