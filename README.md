@@ -31,7 +31,7 @@ An encrypted database authenticated by the user -
 - The user can upload their personal health record's to make it accessible for future purposes.(specially for people with disorder's and cardiac diseases)
 - The user can also receive medical report's on the platform from the health-care department  which would be very beneficial for people living in different cities or far distant places. 
 - The health-department can access user all previous health-record to do better analysis . 
-- The user can book appointment to doctor from any place around the globe.     taste a biryani by it's  photo ).
+- The user can book appointment to doctor from any place around the globe.      a biryani by it's  photo ).
 - A portal to find nearest health center.
 - A 24/7 online emergency department
 - A FAQ and Blog section
