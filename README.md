@@ -42,5 +42,3 @@ An encrypted database authenticated by the user -
  - Pre-existing player in the market
  - Privacy concern
  - Linkage of health department
-
-
